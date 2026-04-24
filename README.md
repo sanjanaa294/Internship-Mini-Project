@@ -30,7 +30,7 @@ MediCore Systems is a premium, enterprise-grade clinical dashboard designed to p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/preethu2896/Internship-Mini-Project.git
+   git clone https://github.com/sanjanaa294/Internship-Mini-Project.git
    cd Internship-Mini-Project
    ```
 
